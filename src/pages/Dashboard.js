@@ -9,9 +9,7 @@ import {
   Calendar, 
   Settings, 
   LogOut,
-  Plus,
   Bot,
-  User,
   Moon,
   Sun
 } from 'lucide-react';
