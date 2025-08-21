@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 import { useTheme } from '../contexts/ThemeContext';
-import { Eye, EyeOff, Mail, Lock, User, Heart, Sparkles, CheckCircle } from 'lucide-react';
+import { Eye, EyeOff, Mail, Lock, User, Heart, CheckCircle } from 'lucide-react';
 
 const Register = () => {
   const [formData, setFormData] = useState({
